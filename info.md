@@ -24,3 +24,11 @@ git config --global user.email
 1. git status
 2. git log
 3. git diff
+
+## Работа с коммитами
+
+Чтобы перейти к определенному коммиту можно использовать команду 
+
+git checkout code_commit
+
+    code_commit - код коммита, к которому хотим перейти, его можно посмотреть в git log
