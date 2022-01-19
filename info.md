@@ -62,3 +62,10 @@ git checkout code_commit
 
 Удаление с игнорированием ошибок:
 > git branch -D branch_name
+
+## Справка
+Чтобы вызвать справку по команде, нужено дописать к команде тег:
+> --help
+Например:
+> git add --help
+> git branch --help
