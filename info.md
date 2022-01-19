@@ -49,3 +49,11 @@ git checkout code_commit
 
 Чтобы перейти на другую ветку:
 > git checkout branch_name
+
+## Удаление веток
+Чтобы удалить ветку с именем branch_name:
+> git branch -d branch_name
+
+Удаление с игнорированием ошибок:
+> git branch -D branch_name
+
