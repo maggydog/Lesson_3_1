@@ -72,5 +72,3 @@
 > git add --help
 
 > git branch --help
-
-Строчка для создания конфликта с hw4
