@@ -40,3 +40,12 @@ git checkout code_commit
 
 ![mountains](pic.jpeg)
 
+## Ветки в git
+Чтобы посмотреть все ветки:
+> git branch
+
+Для создания ветки с именем branch_name:
+> git branch branch_name
+
+Чтобы перейти на другую ветку:
+> git checkout branch_name
